@@ -67,6 +67,8 @@ I'm open-source development enthusiast.
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Cmatrix, yes but cmatrix | lolcat is soooooooo better](https://www.youtube.com/watch?v=m6dJCbII3XU)
+- [Scraping de données provenant de Ebay avec Python avec export en fichier CSV](https://www.youtube.com/watch?v=JEq49MCab0M)
 <!-- YOUTUBE:END -->
 
 <!-- ### 📕 Latest Blog Posts -->
