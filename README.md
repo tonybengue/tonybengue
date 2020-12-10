@@ -1,7 +1,7 @@
 ### Hi there , I'm Tony - aka [Eisenheim][website]👋
 
 [![Website](https://img.shields.io/website?label=tonybengue.fr&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.tonybengue.fr)
-[![Twitter Follow](https://img.shields.io/twitter/follow/tony_bengue?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%tonybengue&screen_name=tonybengue)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tonybengue?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%tonybengue&screen_name=tonybengue)
 
 ## I'm a Tony, Web Developer!
 - 🔭 I’m currently working on an Ebay Scraper
@@ -24,13 +24,13 @@ I'm open-source development enthusiast.
 <!-- [<img align="left" alt="codeSTACkr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 <!-- [<img align="left" alt="codeSTACkr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 [![Github profile](https://img.shields.io/github/followers/tonybengue?label=Follow&style=social)](https://github.com/tonybengue)
-[![Twitter](https://img.shields.io/twitter/follow/tony_bengue.svg?style=social&label=@tony_bengue)](https://twitter.com/tony_bengue)
+[![Twitter](https://img.shields.io/twitter/follow/tonybengue.svg?style=social&label=@tonybengue)](https://twitter.com/tonybengue)
 [![Linkedin](https://img.shields.io/badge/-Tony%20Bengu%C3%A9-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tony-bengue/)](https://www.linkedin.com/in/tony-bengue/)
 [![Mail](https://img.shields.io/badge/-tonybengue@hotmail.fr-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:tonybengue@hotmail.fr)
 
 [website]: https://tonybengue.fr/
 [youtube]: https://www.youtube.com/channel/UCCRzsEHSMQzzsjSWUO7YOyQ?view_as=subscriber
-[twitter]: https://twitter.com/tony_bengue
+[twitter]: https://twitter.com/tonybengue
 [instagram]: https://tonybengue.fr/
 [linkedin]: https://www.linkedin.com/in/tony-bengue/
 [webdevplaylist]: #
