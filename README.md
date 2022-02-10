@@ -1,20 +1,18 @@
-### Hi there , I'm Tony - aka [Eisenheim][website]👋
+### Hi there 👋, I'm Tony - aka [Eisenheim][website], a 🇫🇷 human developer
 
-[![Website](https://img.shields.io/website?label=tonybengue.fr&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.tonybengue.fr)
-[![Twitter Follow](https://img.shields.io/twitter/follow/tonybengue?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%tonybengue&screen_name=tonybengue)
+<!--[![Website](https://img.shields.io/website?label=tonybengue.fr&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.tonybengue.fr)-->
+<!--[![Twitter Follow](https://img.shields.io/twitter/follow/tonybengue?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%tonybengue&screen_name=tonybengue)-->
 
 ## I'm a Tony, Web Developer!
 - 🔭 I’m currently working on an Ebay Scraper
-- 🌱 I’m currently learning React, NodeJS and Python
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
+- 🌱 I’m currently learning React, NodeJS and Python<!-- - 👯 I’m looking to collaborate on ... --><!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about what to do you want
 - 📫 How to reach me: Where do you want on my social links
 - 😄 Pronouns: Toto
 - ⚡ Fun fact: Thinker
 
 ## About me 
-I'm a software development engineer. I like to work with Laravel, NodeJS and Python. I love Linux Kernel based OSs such as Ubuntu and CentOS.
+I'm a software development engineer. I like to work with Laravel, NodeJS and Python. I love Linux Kernel based OSs such as Ubuntu and Arch Linux.
 I'm open-source development enthusiast.
 
 ### Connect with me:
@@ -48,8 +46,8 @@ I'm open-source development enthusiast.
 <br />
 
 ## Frameworks
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" /> 
-
+<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <br />
 
 ## Tools
@@ -61,7 +59,7 @@ I'm open-source development enthusiast.
 <br />
 
 ## Others
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />  
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
 <br />
 
