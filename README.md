@@ -1,9 +1,11 @@
-### Hi there 👋, I'm Tony - aka [Eisenheim][website], a 🇫🇷 human developer
+[website]: https://tonybengue.fr/
+[youtube]: https://www.youtube.com/channel/UCCRzsEHSMQzzsjSWUO7YOyQ?view_as=subscriber
+[twitter]: https://twitter.com/tonybengue
+[instagram]: https://tonybengue.fr/
+[linkedin]: https://www.linkedin.com/in/tony-bengue/
+[webdevplaylist]: #
 
-<!--[![Website](https://img.shields.io/website?label=tonybengue.fr&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.tonybengue.fr)-->
-<!--[![Twitter Follow](https://img.shields.io/twitter/follow/tonybengue?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%tonybengue&screen_name=tonybengue)-->
-
-## I'm a Tony, Web Developer!
+# Hi there 👋, I'm Tony - aka [Eisenheim][website], a 🇫🇷 human developer, based in Limoges
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 🔭 I’m currently working on an Ebay Scraper
@@ -15,57 +17,82 @@
 
 ## About me 
 I'm a software development engineer. I like to work with Laravel, NodeJS and Python. I love Linux Kernel based OSs such as Ubuntu and Arch Linux.
-I'm open-source development enthusiast.
+I'm open-source development enthusiast.  
+You can access to my [website][website] if you want 😉
 
 ### Connect with me:
-[<img align="left" alt="codeSTACkr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!--[<img align="left" alt="codeSTACkr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
 <!-- [<img align="left" alt="codeSTACkr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 <!-- [<img align="left" alt="codeSTACkr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 <!-- [<img align="left" alt="codeSTACkr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
-<!-- [<img align="left" alt="codeSTACkr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+<!--[<img align="left" alt="codeSTACkr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
+
+<!--[![Website](https://img.shields.io/website?label=tonybengue.fr&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.tonybengue.fr)-->
+<!--[![Twitter Follow](https://img.shields.io/twitter/follow/tonybengue?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%tonybengue&screen_name=tonybengue)-->
 [![Github profile](https://img.shields.io/github/followers/tonybengue?label=Follow&style=social)](https://github.com/tonybengue)
 [![Twitter](https://img.shields.io/twitter/follow/tonybengue.svg?style=social&label=@tonybengue)](https://twitter.com/tonybengue)
 [![Linkedin](https://img.shields.io/badge/-Tony%20Bengu%C3%A9-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tony-bengue/)](https://www.linkedin.com/in/tony-bengue/)
 [![Mail](https://img.shields.io/badge/-tonybengue@hotmail.fr-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:tonybengue@hotmail.fr)
 
-[website]: https://tonybengue.fr/
-[youtube]: https://www.youtube.com/channel/UCCRzsEHSMQzzsjSWUO7YOyQ?view_as=subscriber
-[twitter]: https://twitter.com/tonybengue
-[instagram]: https://tonybengue.fr/
-[linkedin]: https://www.linkedin.com/in/tony-bengue/
-[webdevplaylist]: #
+## Languages and Tools
+### Languages
+#### Front-end
+<img alt="Html 5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img alt="Css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-### Languages and Tools:
-<img align="left" alt="Html 5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="Css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="NodeJs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="PhP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />  
+#### Back-end
+<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />  
+<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />  
+<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<br />
+#### Software
+<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
+<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />  
+<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
 
-## Frameworks
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<br />
+#### Others
+<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 
-## Tools
-<img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 
-## Others
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+### Frameworks
+#### Front-end
+<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+#### Back-end
+<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png" />
+<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 
 <br />
 
-### 📺 Latest Youtube Videos
+### Libraries
+#### Front-end
+<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
+
+#### Back-end
+<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
+
+<br />
+
+### Tools
+#### Front-end
+<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+
+#### General
+<img width="26px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
+<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
+<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+
+<br />
+
+## 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
 - [Cmatrix, yes but cmatrix | lolcat is soooooooo better on Linux](https://www.youtube.com/watch?v=m6dJCbII3XU)
 - [Scraping de données provenant de Ebay avec Python avec export en fichier CSV](https://www.youtube.com/watch?v=JEq49MCab0M)
@@ -75,29 +102,14 @@ I'm open-source development enthusiast.
 <!-- BLOG-POST-LIST:END -->
 <!-- BLOG-POST-LIST:END -->
 
-## Interesting stats
+## Stats about me
 <!-- https://github.com/anuraghazra/github-readme-stats#demo -->
 <!-- themes : dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 ![Tony's general stats](https://github-readme-stats.vercel.app/api?username=tonybengue&show_icons=true&count_private=false&theme=radical)
-
-<br /> 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonybengue)](https://github.com/tonybengue)
 
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
-  <!-- [![Twitter](https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg)](http://google.com.au/) -->
-  <!-- <p align="center">
-    <a href="https://twitter.com/jayehernandez_" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/jayehernandez/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:jaye@jayehernandez.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-    <a href="https://jayehernandez.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
-  </p> -->
-  <!-- <p align="center">
-    <a href="http://hits.dwyl.com/jayehernandez/jayehernandez">
-      <img align="center" src="http://hits.dwyl.com/jayehernandez/jayehernandez.svg">
-    </a>
-  </p> -->
 </p>
 
 <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
