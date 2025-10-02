@@ -5,119 +5,108 @@
 [linkedin]: https://www.linkedin.com/in/tony-bengue/
 [webdevplaylist]: #
 
-# Hi there 👋, I'm Tony - aka [Eisenheim][website], a 🇫🇷 human developer, based in Limoges
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-- 🔭 I’m currently working on an Ebay Scraper
-- 🌱 I'm perfecting also my skills in learning React, NodeJS, Python, C language and many others
-- 💬 Ask me about what to do you want
-- 📫 How to reach me: Where do you want on my social links
-- 😄 Pronouns: Toto
-- ⚡ Fun fact: Thinker/Stoïc
+<div align="center">
 
-## About me 
-I'm a software development engineer. I like to work with Laravel, NodeJS and Python. I love Linux Kernel based OSs such as Ubuntu and Arch Linux.
-I'm open-source development enthusiast.  
-You can access to my [website][website] if you want 😉
+# Hi there 👋, I'm Tony - aka [Eisenheim][website]
 
-### Connect with me:
-<!--[<img align="left" alt="codeSTACkr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
-<!-- [<img align="left" alt="codeSTACkr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-<!-- [<img align="left" alt="codeSTACkr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-<!-- [<img align="left" alt="codeSTACkr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
-<!--[<img align="left" alt="codeSTACkr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
+### 🇫🇷 Software Developer based in Limoges, France
 
-<!--[![Website](https://img.shields.io/website?label=tonybengue.fr&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.tonybengue.fr)-->
-<!--[![Twitter Follow](https://img.shields.io/twitter/follow/tonybengue?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%tonybengue&screen_name=tonybengue)-->
+</div>
+
+- 🔭 I'm currently working on an **Ebay Scraper**
+- 🌱 I'm perfecting my skills in **React**, **NodeJS**, **Python**, **C** and many other technologies
+- 💬 Ask me about **web development**, **automation**, or **open-source**
+- 📫 How to reach me: Check out my social links below
+- ⚡ Fun fact: Thinker & Stoïc
+
+## 🚀 About Me 
+
+I'm a **software development engineer** passionate about building efficient and elegant solutions. I enjoy working with **Laravel**, **NodeJS**, and **Python**. I'm a huge fan of **Linux Kernel based OSs** such as Ubuntu and Arch Linux.
+
+🌟 Open-source development enthusiast | 💻 Full-stack developer | 🐧 Linux lover
+
+Visit my [personal website][website] to learn more! 😉
+
+## 📫 Connect with Me
+
+<div align="center">
+
 [![Github profile](https://img.shields.io/github/followers/tonybengue?label=Follow&style=social)](https://github.com/tonybengue)
 [![Twitter](https://img.shields.io/twitter/follow/tonybengue.svg?style=social&label=@tonybengue)](https://twitter.com/tonybengue)
 [![Linkedin](https://img.shields.io/badge/-Tony%20Bengu%C3%A9-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tony-bengue/)](https://www.linkedin.com/in/tony-bengue/)
 [![Mail](https://img.shields.io/badge/-tonybengue@hotmail.fr-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:tonybengue@hotmail.fr)
 
-## Languages and Tools
-### Languages
-#### Front-end
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<br clear="left"/>
+</div>
 
-#### Back-end
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />  
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />  
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<br clear="left"/>
+## 🛠️ Tech Stack
 
-#### Software
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />  
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
-<br clear="left"/>
+### 💻 Languages
 
-#### Others
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<br clear="left"/>
-<br>
+**Frontend**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Frameworks
-#### Front-end
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<br clear="left"/>
+**Backend**  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-#### Back-end
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
-<br clear="left"/>
-<br>
+**Software & Scripting**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
-### Libraries
-#### Front-end
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
-<br clear="left"/>
+**Others**  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
-#### Back-end
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<br clear="left"/>
-<br>
+### 🎨 Frameworks & Libraries
 
-### Tools
-#### Front-end
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<br clear="left"/>
+**Frontend**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-#### General
-<img align="left" width="26px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<br clear="left"/>
-<br>
+**Backend**  
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-## 📺 Latest Youtube Videos
+### 🔧 Tools & Technologies
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## 📺 Latest YouTube Videos
+
 <!-- YOUTUBE:START -->
 - [Cmatrix, yes but cmatrix | lolcat is soooooooo better on Linux](https://www.youtube.com/watch?v=m6dJCbII3XU)
 - [Scraping de données provenant de Ebay avec Python avec export en fichier CSV](https://www.youtube.com/watch?v=JEq49MCab0M)
 <!-- YOUTUBE:END -->
 
-<!-- ### 📕 Latest Blog Posts -->
-<!-- BLOG-POST-LIST:END -->
-<!-- BLOG-POST-LIST:END -->
+---
 
-## Stats about me
-<!-- https://github.com/anuraghazra/github-readme-stats#demo -->
-<!-- themes : dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-![Tony's general stats](https://github-readme-stats.vercel.app/api?username=tonybengue&show_icons=true&count_private=false&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonybengue)](https://github.com/tonybengue)
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonybengue&show_icons=true&count_private=false&theme=radical)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonybengue&layout=compact&theme=radical)](https://github.com/tonybengue)
+
+</div>
+
+---
 
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+  <i>💡 Let's connect and chat! Open to anything under the sun.</i>
 </p>
-
-<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
 
 <div align="center">
 
